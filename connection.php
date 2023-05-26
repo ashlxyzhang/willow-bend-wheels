@@ -1,7 +1,7 @@
 <?php
 $server = "gator4133.hostgator.com";
 $username = "willowb1_pokes";
-$password = "Pokes-1023";
+$password = "ajqsO$@I-%#N";
 $db = "willowb1_car_inventory";
 
 // $server = "localhost";
